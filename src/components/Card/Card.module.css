@@ -1,0 +1,22 @@
+.front{
+    z-index: 99;
+    position: absolute;
+    top: 20%;
+    left: 10%;
+}
+
+
+.cardLogo{
+    position: absolute;
+    z-index: 100;
+    top: 10%;
+    
+}
+
+.back{
+    z-index: 99;
+    position: absolute;
+    bottom: 20%;
+    left: 17%;
+
+}

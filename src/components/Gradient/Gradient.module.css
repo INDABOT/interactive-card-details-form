@@ -1,0 +1,5 @@
+.gradient{
+    background: repeating-linear-gradient(to bottom right,hsl(278, 68%, 11%), hsl(278, 94%, 30%), hsl(0, 100%, 66%) 70%,hsl(249, 99%, 64%),hsl(278, 68%, 11%)  );
+    width: 30vw;
+    height: 100vh;
+}

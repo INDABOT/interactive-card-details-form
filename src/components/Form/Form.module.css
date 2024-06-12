@@ -1,0 +1,42 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  margin: 20% auto;
+}
+label {
+  display: flex;
+  flex-direction: column;
+  color: hsl(278, 68%, 11%);
+  font-weight: 500;
+}
+.dcvc{
+    display: flex;
+}
+.long {
+  width: 25vw;
+}
+input {
+  height: 2.6rem;
+  border: 1px solid hsl(279, 6%, 55%);
+  border-radius: 0.4rem;
+  padding-left: 1rem;
+  margin-bottom: 1.5rem;
+  margin-top: 0.5rem;
+}
+.date, .date1{
+    width: 4rem;
+}
+.date{
+    margin-left: 5px;
+}
+.cvc{
+ margin-left: 3.36rem;
+}
+
+.button{
+    height: 12%;
+    background-color: hsl(278, 68%, 11%);
+    color: #fff;
+    margin-top: 1rem;
+}
